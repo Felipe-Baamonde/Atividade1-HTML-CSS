@@ -1,0 +1,32 @@
+.pai {
+    background-color: #e87020;
+    width: 500px;
+    height: 500px;
+}
+
+.filho {
+    background-color: #45e93c;
+    width: 250px;
+    height: 250px;
+}
+
+.paragrafo {
+    color: white;
+    background-color: rgb(255, 0, 0);
+    font-size: 25px;
+    font-family: monospace;
+
+}
+
+.pai2 {
+    height: 50vh;
+    background-color: rgb(173, 216, 230);
+
+}
+
+.filho2 {
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(255, 0, 0);
+
+}
